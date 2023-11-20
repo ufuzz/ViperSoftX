@@ -19,6 +19,5 @@ here are some screenshots of what i found
 ![Screenshot 2023-11-19 163351](https://github.com/ufuzz/ViperSoftX/assets/151580202/7789ba07-fc0c-4836-8fbd-7bc815729f8e)
 ![Screenshot 2023-11-19 163403](https://github.com/ufuzz/ViperSoftX/assets/151580202/977c575d-48ec-49b6-a75f-cdbf21e2cc87)
 ![Screenshot 2023-11-19 163409](https://github.com/ufuzz/ViperSoftX/assets/151580202/726737e3-b810-436c-9642-3e979e3964ed)
-![Screenshot 2023-11-19 164441](https://github.com/ufuzz/ViperSoftX/assets/151580202/d73676f6-a942-40ce-adc6-870ff0781c1f)
 ![Screenshot 2023-11-19 165330](https://github.com/ufuzz/ViperSoftX/assets/151580202/fe522963-84b6-49fd-ab52-d8a39291975d)
-![Screenshot 2023-11-18 150851](https://github.com/ufuzz/ViperSoftX/assets/151580202/98232218-2959-464d-82fa-c4f91b44800a)
+
