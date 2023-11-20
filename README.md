@@ -10,4 +10,4 @@ I did my research and I found out it was a ViperSoftX attack which has been docu
 
 Please excuse me as it is my first time making a github post or anything so I might miss some important things but feel free to let me know
 
-in this repo i will add the code from the extension's folder.
+the code was in .js containers and i beautified it and put it in txt files. everything here looks like gibberish to me but you can see in "mainjs.txt" the domains of many crypto exchanges
